@@ -1,2 +1,0 @@
-# SimpleChessGame
-Frist Unreal project
